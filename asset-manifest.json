@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kml-map-project/static/css/main.5b89d402.css",
+    "main.js": "/kml-map-project/static/js/main.c2e03af7.js",
+    "static/js/453.1ec17677.chunk.js": "/kml-map-project/static/js/453.1ec17677.chunk.js",
+    "index.html": "/kml-map-project/index.html",
+    "main.5b89d402.css.map": "/kml-map-project/static/css/main.5b89d402.css.map",
+    "main.c2e03af7.js.map": "/kml-map-project/static/js/main.c2e03af7.js.map",
+    "453.1ec17677.chunk.js.map": "/kml-map-project/static/js/453.1ec17677.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b89d402.css",
+    "static/js/main.c2e03af7.js"
+  ]
+}
